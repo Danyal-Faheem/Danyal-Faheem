@@ -5,12 +5,8 @@
 - 📊 I love working with **large-scale, data-centric systems** and solving complex problems.  
 - 📚 Currently diving deep into the world of **Data Engineering**.  
 - ⚽ Huge football fan![Chelsea FC](https://img.shields.io/badge/Chelsea%20FC-034694?style=for-the-badge&logo=chelsea&logoColor=white)  
-- 📧 Reach me at: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalfaheem@gmail.com)  
-
----
-
-![Danyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyal-Faheem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Faheem&layout=compact&theme=radical)
+- 📧 Reach me at: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalfaheem@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyalfaheem)
 
 ## 🚀 Tech Stack
 
@@ -39,9 +35,11 @@
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyalfaheem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalfaheem@gmail.com)
+![Danyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyal-Faheem&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Faheem&layout=compact&theme=radical)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Danyal-Faheem&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=Danyal-Faheem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=Danyal-Faheem&theme=radical)
 
 
 <!---
