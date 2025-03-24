@@ -35,11 +35,10 @@
 
 ---
 
-![Danyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyal-Faheem&show_icons=true&theme=radical)
+![Danyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danyal-Faheem&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&include_all_issues=true&count_private=true&show=reviews&hide=stars)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Faheem&layout=compact&theme=radical)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Danyal-Faheem&theme=radical)
-![](https://github-profile-trophy.vercel.app/?username=Danyal-Faheem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![](https://github-contributor-stats.vercel.app/api?username=Danyal-Faheem&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Danyal-Faheem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=Danyal-Faheem&theme=radical)
 
 
 <!---
