@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 - 💻 I'm a **Software Engineer** passionate about **backend technologies** and **data analytics**.  
 - 📊 I love working with **large-scale, data-centric systems** and solving complex problems.  
-- 📚 Currently diving deep into the world of **Data Engineering**.  
+- 📚 Currently, I'm doing my Masters in Computer Science at the Mohamed bin Zayed University of Artificial Intelligence.
 - ⚽ Huge football fan![Chelsea FC](https://img.shields.io/badge/Chelsea%20FC-034694?style=for-the-badge&logo=chelsea&logoColor=white)  
 - 📧 Reach me at: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalfaheem@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyalfaheem)
